@@ -1,10 +1,10 @@
 Hi, I'm Dike Young Chukwuka
 
-Aspiring Data Analyst | Business Intelligence Enthusiast
+Data Analyst | Business Intelligence Enthusiast
 
 Welcome to my GitHub portfolio!
 
-I am passionate about transforming raw data into meaningful insights that support business decision-making.
+Welcome to my data analytics GitHub portfolio. I use data analysis and visualization techniques to transform raw data into meaningful insights that support business decision-making.
 
 I work with data analytics tools and technologies to explore datasets, perform SQL analysis, develop interactive dashboards, and communicate business insights.
 
